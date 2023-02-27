@@ -1,0 +1,55 @@
+# web-page<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <thead>
+        <h1>
+        <b>
+        <i>
+        <marquee behavior="" direction="right"><q>WORLD BEST FRAGRENCE</q></marquee>
+        </i>
+        </b>
+    </h1>
+        <table border="1" width="100%">
+        <tr>
+           
+            <th><image width="100%" src="https://th.bing.com/th/id/R.6814baa7e1121b9def42defced2d9f42?rik=kCYRLVvRTPSt3Q&riu=http%3a%2f%2fluckyone.com.pk%2fwp-content%2fuploads%2f2017%2f05%2fj-perfumes-270x270_c.jpg&ehk=wS3KF1bfpS3kd5NvVwY1sc84YTcbUMVqkpUQmQCfyKE%3d&risl=&pid=ImgRaw&r=0" alt="" ></image></th>
+            <th>NAME</th>
+            <th>ABOUT</th>
+            <th>CONTACT</th>
+            <th>RATING</th>
+        </tr>
+        <tr>
+             <td colspan="20"><image src="https://fimgs.net/mdimg/secundar/o.34540.jpg" alt="" width="100%"></image>
+             
+
+        </tr>
+        <tr>
+           <td width="20%"><image width="100%" src="https://fimgs.net/images/secundar/o.30563.jpg"></image></td>
+           <td width="20%" height="20%"><image width="100%" height="100%"src="https://fimgs.net/mdimg/secundar/fit.30562.jpg"></image></td>
+           <td width="20%"><image width="80%" src="https://th.bing.com/th?id=OIP.tU_IBBVoGHggCpNZbD_aGwAAAA&w=216&h=288&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"></image></td>
+           <td width="20%"><image width="100%" src="https://fimgs.net/images/perfume/375x500.35690.jpg"></image></td>
+           <td width="80%"><image width="100%" src="https://th.bing.com/th/id/OIP.OYMdog9NSlcLKuFfRaVnpQHaHa?pid=ImgDet&rs=1"></image></td>
+        </tr>
+        <tr>
+            <td><del>1800Rs</del>
+            <ins>1500Rs</ins></td>
+            <td><del>2000Rs</del>
+            <ins>1600Rs</ins></td>
+            <td><del>1700Rs</del>
+            <ins>1500Rs</ins></td>
+            <td><del>1600Rs</del>
+            <ins>1200Rs</ins></td>
+            <td><del>1600Rs</del>
+            <ins>1400Rs</ins></td>
+
+        </tr>
+        </table>
+    </thead>
+</body>
+</html>
